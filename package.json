@@ -1,0 +1,24 @@
+{
+  "name": "barrelRoller",
+  "description": "A generic verical spinner",
+  "author": "Kory Nunn <knunn187@gmail.com>",
+  "tags": [
+    "DOM"
+  ],
+  "version": "1.0.0",
+  "main": "barrelRoller.js",
+  "dependencies": {
+        "elder":"x.x.x",
+        "interact-js":"0.1.x",
+        "crel":"1.x.x",
+        "doc":"0.1.x"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KoryNunn/barrelRoller.git"
+  },
+  "bugs": {
+    "url": "http://github.com/KoryNunn/barrelRoller/issues"
+  },
+  "contributors": []
+}
